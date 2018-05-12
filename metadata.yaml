@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Merrill, Frank Thayer
     - Merrill, F. T.
-    birthdate: &id001 1848
+    birthdate: 1848
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
 covers:
@@ -15,11 +15,13 @@ covers:
 creator:
   author:
     agent_name: Munn, Charles Clark
-    birthdate: *id001
+    birthdate: 1848
     deathdate: 1917
     gutenberg_agent_id: '9054'
     url: http://www.gutenberg.org/2009/agents/9054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34202#The-Girl-From-Tim-s-Place
 gutenberg_issued: '2010-11-03'
 gutenberg_type: Text
 identifiers:
